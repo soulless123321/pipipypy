@@ -1,0 +1,7 @@
+D:\Users\1213-9\Documents\2-ИСПд\Шемонаев\практическая 5\obj\Debug\практическая 5.csproj.AssemblyReference.cache
+D:\Users\1213-9\Documents\2-ИСПд\Шемонаев\практическая 5\obj\Debug\практическая 5.csproj.CoreCompileInputs.cache
+D:\Users\1213-9\Documents\2-ИСПд\Шемонаев\практическая 5\bin\Debug\практическая 5.exe.config
+D:\Users\1213-9\Documents\2-ИСПд\Шемонаев\практическая 5\bin\Debug\практическая 5.exe
+D:\Users\1213-9\Documents\2-ИСПд\Шемонаев\практическая 5\bin\Debug\практическая 5.pdb
+D:\Users\1213-9\Documents\2-ИСПд\Шемонаев\практическая 5\obj\Debug\практическая 5.exe
+D:\Users\1213-9\Documents\2-ИСПд\Шемонаев\практическая 5\obj\Debug\практическая 5.pdb
