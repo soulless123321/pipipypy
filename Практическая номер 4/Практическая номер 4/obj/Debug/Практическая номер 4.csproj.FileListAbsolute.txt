@@ -1,0 +1,7 @@
+C:\Users\ilase\OneDrive\Рабочий стол\gg\lol\Практическая номер 4\Практическая номер 4\bin\Debug\Практическая номер 4.exe.config
+C:\Users\ilase\OneDrive\Рабочий стол\gg\lol\Практическая номер 4\Практическая номер 4\bin\Debug\Практическая номер 4.exe
+C:\Users\ilase\OneDrive\Рабочий стол\gg\lol\Практическая номер 4\Практическая номер 4\bin\Debug\Практическая номер 4.pdb
+C:\Users\ilase\OneDrive\Рабочий стол\gg\lol\Практическая номер 4\Практическая номер 4\obj\Debug\Практическая номер 4.csproj.AssemblyReference.cache
+C:\Users\ilase\OneDrive\Рабочий стол\gg\lol\Практическая номер 4\Практическая номер 4\obj\Debug\Практическая номер 4.csproj.CoreCompileInputs.cache
+C:\Users\ilase\OneDrive\Рабочий стол\gg\lol\Практическая номер 4\Практическая номер 4\obj\Debug\Практическая номер 4.exe
+C:\Users\ilase\OneDrive\Рабочий стол\gg\lol\Практическая номер 4\Практическая номер 4\obj\Debug\Практическая номер 4.pdb
