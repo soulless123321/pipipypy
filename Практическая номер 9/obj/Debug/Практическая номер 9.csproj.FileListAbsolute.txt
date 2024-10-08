@@ -1,0 +1,7 @@
+D:\Users\1213-10\Documents\2-ИСПд\Шемонаев Илья\Практическая номер 9\bin\Debug\Практическая номер 9.exe.config
+D:\Users\1213-10\Documents\2-ИСПд\Шемонаев Илья\Практическая номер 9\bin\Debug\Практическая номер 9.exe
+D:\Users\1213-10\Documents\2-ИСПд\Шемонаев Илья\Практическая номер 9\bin\Debug\Практическая номер 9.pdb
+D:\Users\1213-10\Documents\2-ИСПд\Шемонаев Илья\Практическая номер 9\obj\Debug\Практическая номер 9.csproj.AssemblyReference.cache
+D:\Users\1213-10\Documents\2-ИСПд\Шемонаев Илья\Практическая номер 9\obj\Debug\Практическая номер 9.csproj.CoreCompileInputs.cache
+D:\Users\1213-10\Documents\2-ИСПд\Шемонаев Илья\Практическая номер 9\obj\Debug\Практическая номер 9.exe
+D:\Users\1213-10\Documents\2-ИСПд\Шемонаев Илья\Практическая номер 9\obj\Debug\Практическая номер 9.pdb
