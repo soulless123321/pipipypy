@@ -1,0 +1,7 @@
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Фамилия\Шемонаев\книга в struct\bin\Debug\книга в struct.exe.config
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Фамилия\Шемонаев\книга в struct\bin\Debug\книга в struct.exe
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Фамилия\Шемонаев\книга в struct\bin\Debug\книга в struct.pdb
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Фамилия\Шемонаев\книга в struct\obj\Debug\книга в struct.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Фамилия\Шемонаев\книга в struct\obj\Debug\книга в struct.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Фамилия\Шемонаев\книга в struct\obj\Debug\книга в struct.exe
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Фамилия\Шемонаев\книга в struct\obj\Debug\книга в struct.pdb
